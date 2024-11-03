@@ -69,8 +69,9 @@ module.exports = {
         if(fs.existsSync(`./HEPL/PendingVerification.json`)){
             const data = fs.readFileSync(`./HEPL/PendingVerification.json`, 'utf8')
             const obj = JSON.parse(data);
-            
-            //console.log(obj.emailArray);
+            pvEmails = obj.emailArray;
+            pvUserIds = obj.userIdArray;
+            pvCodes = obj.codeArray;
         }
         else
         {
@@ -103,7 +104,7 @@ module.exports = {
 
         
         //A partir d'ici, tout est en ordre
-        console.log(`${prenom} ${nom} [${groupe}]`);
+        //console.log(`${prenom} ${nom} [${groupe}]`);
         const userInfoFromInteraction = await interaction.guild.members.cache.get(interaction.user.id);
         //console.log(userInfoFromInteraction);
         userInfoFromInteraction.setNickname(`${prenom} ${nom} [${groupe}]`);
