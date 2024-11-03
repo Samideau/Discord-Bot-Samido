@@ -1,0 +1,14 @@
+node_modules
+JSON
+package-lock.json
+start.log
+.idea
+FolderContainer/Complains
+FolderContainer/BugReport
+Old
+InDev
+Twitch/broadcastersIDs.json
+Twitch/config.json
+DDG-commands.js
+HEPL/AlreadyCompleted.json
+HEPL/PendingVerification.json

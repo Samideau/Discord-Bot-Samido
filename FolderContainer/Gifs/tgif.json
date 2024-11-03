@@ -1,0 +1,77 @@
+{
+  "calin": {
+    "phrases": ["fait un câlin à", "câline"],
+    "urls":["https://c.tenor.com/IRG8Ji4th6kAAAAC/tenor.gif", "https://media.tenor.com/G_IvONY8EFgAAAAC/aharen-san-anime-hug.gif", "https://media.tenor.com/xhYyRJVZeZoAAAAC/anime.gif", "https://media.tenor.com/7oCaSR-q1kkAAAAC/alice-vt.gif", "https://media.tenor.com/9e1aE_xBLCsAAAAC/anime-hug.gif", "https://media.tenor.com/ZmMbIa4rjhMAAAAC/hug-anime.gif"],
+    "afterphrases": [""]
+  },
+  "senlacer": {
+    "phrases": ["se blottit contre"],
+    "urls":["https://media.tenor.com/jAycgzTbAWwAAAAC/cuddle.gif", "https://media.tenor.com/H7i6GIP-YBwAAAAC/a-whisker-away-hug.gif", "https://media.tenor.com/08vDStcjoGAAAAAC/cuddle-anime-hug-anime.gif", "https://media.tenor.com/ItpTQW2UKPYAAAAC/cuddle-hug.gif", "https://media.tenor.com/kCZjTqCKiggAAAAC/hug.gif", "https://media.tenor.com/WvcTBnz_L-oAAAAC/anime.gif", "https://media.tenor.com/fklZNDaU9NMAAAAC/hideri-hideri-kanzaki.gif", "https://media.tenor.com/X5CVbvO_ufkAAAAC/dragon-maid-saikawa.gif", "https://media.tenor.com/B1GW7C9afKEAAAAC/kanna-kamui-sad.gif"],
+    "afterphrases": [""]
+  },
+  "bisous": {
+    "phrases": ["fait un bisous à"],
+    "urls":["https://media.tenor.com/ZmTA5za98T0AAAAC/kiss.gif", "https://media.tenor.com/Bw0OLA1NefUAAAAC/anime-chuunibyou.gif", "https://media.tenor.com/GAr1rMm39pcAAAAC/anime-hug.gif", "https://media.tenor.com/8JdJyDd1higAAAAC/kiss-cheek.gif", "https://media.tenor.com/b2q1WNG8zT8AAAAC/anime-kiss.gif"],
+    "afterphrases": [""]
+  },
+  "hardbisous": {
+    "phrases": ["embrasse", "roule une pelle à"],
+    "urls":["https://media.tenor.com/jnndDmOm5wMAAAAC/kiss.gif", "https://media.tenor.com/Ogthkl9rYBMAAAAC/ichigo-hiro.gif", "https://media.tenor.com/-_NJcR60b7UAAAAC/anime.gif", "https://media.tenor.com/F02Ep3b2jJgAAAAC/cute-kawai.gif", "https://media.tenor.com/KRCWgDqlfjkAAAAC/kiss-anime.gif", "https://media.tenor.com/8mUI_rkXUuAAAAAC/kiss.gif", "https://media.tenor.com/nRdyrvS3qa4AAAAC/anime-kiss.gif", "https://media.tenor.com/dng5wrAkNloAAAAC/anime.gif", "https://media.tenor.com/HPWDBAuRpAoAAAAC/anime-couple-kiss-anime.gif", "https://media.tenor.com/g9HjxRZM2C8AAAAC/anime-love.gif"],
+    "afterphrases": [""]
+  },
+  "coucou": {
+    "phrases": ["fait coucou à", "fais signe de la main à"],
+    "urls":["https://media.tenor.com/_P0pLTSCm_AAAAAC/piplup-volknernation.gif", "https://media.tenor.com/RgLeC5NBSwAAAAAC/bye-wave.gif", "https://media.tenor.com/ss23ELgluM0AAAAC/the-promised-neverland-anime.gif", "https://media.tenor.com/S6Kxbixp1yUAAAAC/gakkou-gurashi-hello.gif", "https://media.tenor.com/ILT5-vuNzB8AAAAC/anime-anime-wave-bye.gif", "https://media.tenor.com/nQOSTbcTKZcAAAAC/anime-waves-hi.gif", "https://media.tenor.com/BfOaQrPTl4YAAAAC/wataten-watashi-ni-tenshi-ga-maiorita.gif", "https://media.tenor.com/6Av_k8DzFDQAAAAC/meli-wave.gif", "https://media.tenor.com/mGYto_vnsqkAAAAC/wave-kawaii-wave.gif", "https://media.tenor.com/FMpLzF4UJhwAAAAC/kisumi-wave.gif", "https://media.tenor.com/dCTUyNt499gAAAAC/kobayashi-dragon.gif", "https://media.tenor.com/_Exw4V_izbkAAAAC/cute-anime.gif", "https://media.tenor.com/JKVDJPZX4kIAAAAC/anime-anime-wave.gif", "https://media.tenor.com/m3Gl-AOxRx8AAAAC/pokemon-pikachu.gif", "https://media.tenor.com/Kl-oQh4TX4IAAAAC/grant-pokemon-grant.gif"],
+    "afterphrases": [""]
+  },
+  "mordille": {
+    "phrases": ["mordille"],
+    "urls":["https://media.tenor.com/8UjO54apiUIAAAAC/gjbu-bite.gif", "https://media.tenor.com/8Q9PcM5GL2QAAAAC/anime-ear-ear-bite.gif", "https://media.tenor.com/jLoppoafD5EAAAAC/bite.gif", "https://media.tenor.com/nQf1tR8cRGcAAAAC/k-on-biting.gif", "https://media.tenor.com/SXXCutLZdb4AAAAC/anime-bite.gif", "https://media.tenor.com/HO71nB7fQdkAAAAC/anime-zombielandsaga.gif"],
+    "afterphrases": ["" ,"nom nom nom"]
+  },
+  "mordre": {
+    "phrases": ["mord"],
+    "urls":["https://media.tenor.com/pbihHtECxXcAAAAC/laito-anime.gif", "https://media.tenor.com/32b3QF976Y8AAAAC/anime-bite.gif", "https://media.tenor.com/hd1lz8G0RdwAAAAC/anime-bite.gif", "https://media.tenor.com/JEuY0WWcguIAAAAC/anime-bite.gif", "https://media.tenor.com/5mVQ3ffWUTgAAAAC/anime-bite.gif", "https://media.tenor.com/mXc2f5NeOpgAAAAC/no-blood-neck-bite.gif", "https://media.tenor.com/ECCpi63jZlUAAAAC/anime-bite.gif", "https://media.tenor.com/BMEjcm2O8zsAAAAC/anime-bite.gif"],
+    "afterphrases": ["" ,"ouch"]
+  },
+  "pat": {
+    "phrases": ["pat pat"],
+    "urls":["https://media.tenor.com/Hgt-mT0KXN0AAAAC/chtholly-tiat.gif", "https://media.tenor.com/8o4fWGwBY1EAAAAC/aharensan-aharen.gif", "https://media.tenor.com/wYHN1guUuPUAAAAC/cajole-hug.gif", "https://media.tenor.com/i7nXGbPLqTsAAAAC/anime-hug.gif", "https://media.tenor.com/kZONiolT5uYAAAAC/love-hugs.gif", "https://media.tenor.com/wLqFGYigJuIAAAAC/mai-sakurajima.gif", "https://media.tenor.com/E6fMkQRZBdIAAAAC/kanna-kamui-pat.gif", "https://media.tenor.com/TDqVQaQWcFMAAAAC/anime-pat.gif", "https://media.tenor.com/oGbO8vW_eqgAAAAC/spy-x-family-anya.gif", "https://media.tenor.com/YroVxwiL2dcAAAAC/ao-haru-ride-anime-boy.gif"],
+    "afterphrases": ["", "kawai desu"]
+  },
+  "check": {
+    "phrases": ["tape dans la main de", "fait un check à"],
+    "urls":["https://media.tenor.com/Rz9ylY1omBoAAAAC/tenor.gif", "https://media.tenor.com/5EIEPqvzwtAAAAAC/high-five-patrick-star.gif", "https://media.tenor.com/yCNsaEbq9dgAAAAC/kirito-anime.gif", "https://media.tenor.com/Ajl4l3PWf8sAAAAC/high-five-anime.gif", "https://media.tenor.com/zuGJiqsnkPIAAAAC/eevee-pikachu.gif", "https://media.tenor.com/YCub_pFV2uAAAAAC/anime-high.gif"],
+    "afterphrases": ["", "quel swag"]
+  },
+  "frapper": {
+    "phrases": ["frappe", "défonce"],
+    "urls":["https://media.tenor.com/C_icwYnAkLsAAAAC/laughing-out-loud-anime.gif", "https://media.tenor.com/6a42QlkVsCEAAAAC/anime-punch.gif", "https://media.tenor.com/vBguwqFg-MsAAAAC/kimihito-monster-musume.gif", "https://media.tenor.com/p_mMicg1pgUAAAAC/anya-forger-damian-spy-x-family.gif", "https://media.tenor.com/DKMb2QPU7aYAAAAC/rin243109-blue-exorcist.gif", "https://media.tenor.com/GuML2yHT58kAAAAC/punch-anime.gif", "https://media.tenor.com/EvBn8m3xR1cAAAAC/toradora-punch.gif", "https://media.tenor.com/SQQ4VD6igHIAAAAC/yuji-itadori-yuji.gif", "https://media.tenor.com/o0FEX0ZcSAEAAAAC/hibiki-punch-anime-punch.gif", "https://media.tenor.com/mr2ppAEU-ocAAAAC/dragon-maid-maidragon.gif", "https://media.tenor.com/PyMXATLzh5QAAAAC/double-punch-punch.gif", "https://media.tenor.com/rjR2Z67erfkAAAAC/death-saitama.gif"],
+    "afterphrases": ["", "ça doit faire mal"]
+  },
+  "gifler": {
+    "phrases": ["gifle", "remet les idées en place à"],
+    "urls":["https://media.tenor.com/vvfxdbCp2vMAAAAC/dragon-maid-boob-slap.gif", "https://media.tenor.com/XiYuU9h44-AAAAAC/anime-slap-mad.gif", "https://media.tenor.com/Ws6Dm1ZW_vMAAAAC/girl-slap.gif", "https://media.tenor.com/ra17G61QRQQAAAAC/tapa-slap.gif", "https://media.tenor.com/PeJyQRCSHHkAAAAC/saki-saki-mukai-naoya.gif", "https://media.tenor.com/eU5H6GbVjrcAAAAC/slap-jjk.gif", "https://media.tenor.com/ZozZrvtEdAkAAAAC/slap.gif", "https://media.tenor.com/5jBuDXkDsjYAAAAC/slap.gif", "https://media.tenor.com/sDF-c_-qKnEAAAAC/anime.gif", "https://media.tenor.com/L0fsdBYmh_wAAAAC/kokoro-connect-slap-anime.gif", "https://media.tenor.com/8SoReGELlnAAAAAC/anime-girl-slap.gif", "https://media.tenor.com/dHNqRCJQSnIAAAAC/slap-%E0%B8%99%E0%B8%8A.gif", "https://media.tenor.com/V2aQ-PeFwwUAAAAC/slap.gif", "https://media.tenor.com/WYmal-WAnksAAAAC/yuzuki-mizusaka-nonoka-komiya.gif"],
+    "afterphrases": [""]
+  },
+  "boop": {
+    "phrases": ["boop"],
+    "urls":["https://media.tenor.com/Ur9uVvSUd1oAAAAC/boop-rascal-does-not-dream-of-bunny-girl-senpai.gif", "https://media.tenor.com/4OHxyGd4qp0AAAAC/boop-nose.gif", "https://media.tenor.com/y4R6rexNEJIAAAAC/boop-anime.gif", "https://media.tenor.com/RmQElPHERIoAAAAC/boop-anime.gif", "https://media.tenor.com/NjIdfk7i3bsAAAAC/poke-poke-poke.gif"],
+    "afterphrases": [""]
+  },
+  "tuer": {
+    "phrases": ["tue", "élimine", "oblitère"],
+    "urls":["https://media.tenor.com/Re9dglY0sCwAAAAC/anime-wasted.gif", "https://media.tenor.com/5gsqCEJiXQEAAAAC/anime-wasted.gif", "https://media.tenor.com/NbBCakbfZnkAAAAC/die-kill.gif", "https://media.tenor.com/FJmJM5jRVp4AAAAC/wasted-anime.gif", "https://media.tenor.com/hDFU7nFDFhcAAAAC/wasted-anime.gif", "https://media.tenor.com/Ce8ZMfAcjdoAAAAC/anime.gif", "https://media.tenor.com/DfYhYzK4ibMAAAAC/wasted-bump.gif"],
+    "afterphrases": ["", "F"]
+  },
+  "sexe": {
+    "phrases": ["fait des choses pas très Charlie avec", "fait des bêtises avec", "fait du sport de chambre avec", "PEGI 18"],
+    "urls":["https://media.tenor.com/oOyHFKm4B_gAAAAC/kobayashi-san-chi-no-maid-dragon-anime.gif", "https://media.tenor.com/7u92I92oPwgAAAAd/anime-sex.gif", "https://media.tenor.com/5Me54nLWWE8AAAAC/anime-sex-sign.gif", "https://media.tenor.com/YexSKCMH9QAAAAAC/cheems-bonk.gif", "https://media.tenor.com/9G1zsVIiV6UAAAAC/anime-bed.gif", "https://media.tenor.com/wom9NNHlNNoAAAAC/call-of-the-night-sex.gif", "https://media.tenor.com/R8W1vh6X6uMAAAAC/anime-love.gif", "https://media.tenor.com/tdK59AzAWZgAAAAC/pokemon-anime.gif", "https://media.tenor.com/q96_L6Ajcu4AAAAC/ban-banned.gif", "https://media.tenor.com/yGWVrpqCrH8AAAAC/neko-cat.gif", "https://media.tenor.com/aAaqVjovOB4AAAAC/pokemon-turtle.gif"],
+    "afterphrases": ["", "je vais devoir censurer"]
+  },
+  "maudire": {
+    "phrases": ["maudit", "fait un regard noir à"],
+    "urls":["https://media.tenor.com/GhuOJgPvyuAAAAAC/kanna-wanna-kill-cute.gif", "https://media.tenor.com/vK9H3WMBoogAAAAC/hxh-killua.gif", "https://media.tenor.com/oyTDSBzM5ZAAAAAC/stare-anime-death-stare-anime.gif"],
+    "afterphrases": [""]
+  }
+}

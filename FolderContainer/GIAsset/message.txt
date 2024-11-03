@@ -1,0 +1,2336 @@
+DetailedGenshinUser {
+  _data: {
+    playerInfo: {
+      nickname: 'Anna',
+      level: 60,
+      signature: '[FR/ENG] full box lvl 90 | Hu tao/Yelan main',
+      worldLevel: 8,
+      nameCardId: 210119,
+      finishAchievementNum: 1017,
+      towerFloorIndex: 12,
+      towerLevelIndex: 3,
+      showAvatarInfoList: [Array],
+      showNameCardIdList: [Array],
+      profilePicture: [Object]
+    },
+    avatarInfoList: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    ttl: 60,
+    uid: '704264284',
+    _lib: {
+      cache_id: '756fc31e-e2ba-41e1-b0d1-168a3c715f94',
+      created_at: 1708262351334,
+      expires_at: 1708262411334,
+      original_ttl: 60,
+      is_cache: false
+    }
+  },
+  enka: <ref *1> EnkaClient {
+    hoyoType: 0,
+    options: {
+      enkaUrl: 'https://enka.network',
+      defaultImageBaseUrl: 'https://api.ambr.top/assets/UI',
+      imageBaseUrlByRegex: [Object],
+      userAgent: 'Mozilla/5.0',
+      requestTimeout: 3000,
+      defaultLanguage: 'en',
+      textAssetsDynamicData: [Object],
+      cacheDirectory: null,
+      showFetchCacheLog: true,
+      userCache: [Object],
+      githubToken: null,
+      enkaSystem: [EnkaSystem]
+    },
+    cachedAssetsManager: CachedAssetsManager {
+      enka: [Circular *1],
+      defaultCacheDirectoryPath: 'D:\\Autre\\DiscordBot\\BotMusic\\node_modules\\enka-network-api\\cache',
+      _contentsSrc: [Array],
+      _langs: [Array],
+      cacheDirectoryPath: 'D:\\Autre\\DiscordBot\\BotMusic\\node_modules\\enka-network-api\\cache',
+      _cacheUpdater: null,
+      _githubCache: null,
+      _isFetching: false
+    },
+    _tasks: [
+      Timeout {
+        _idleTimeout: 60000,
+        _idlePrev: [TimersList],
+        _idleNext: [TimersList],
+        _idleStart: 14511,
+        _onTimeout: [AsyncFunction (anonymous)],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: true,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 354,
+        [Symbol(triggerId)]: 0
+      }
+    ]
+  },
+  uid: 704264284,
+  nickname: 'Anna',
+  signature: '[FR/ENG] full box lvl 90 | Hu tao/Yelan main',
+  profilePicture: CharacterProfilePicture {
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    _data: {
+      id: 2900,
+      iconPath: 'UI_AvatarIcon_Hutao_Circle',
+      priority: 2900,
+      nameTextMapHash: 678944044,
+      BEAFOEGLKEO: 'PROFILE_PICTURE_UNLOCK_BY_AVATAR',
+      HLNPELJOHLF: 10000046
+    },
+    icon: ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_AvatarIcon_Hutao_Circle',
+      imageBaseUrl: 'https://enka.network/ui',
+      url: 'https://enka.network/ui/UI_AvatarIcon_Hutao_Circle.png',
+      imageType: null,
+      mihoyoUrl: '',
+      isAvailable: true
+    },
+    name: TextAssets {
+      id: 678944044,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    type: 'PROFILE_PICTURE_UNLOCK_BY_AVATAR',
+    costume: Costume {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 204600,
+      name: [TextAssets],
+      description: [TextAssets],
+      characterId: 10000046,
+      isDefault: true,
+      _nameId: 'Hutao',
+      icon: [ImageAssets],
+      sideIcon: [ImageAssets],
+      splashImage: [ImageAssets],
+      stars: null,
+      cardIcon: [ImageAssets]
+    }
+  },
+  charactersPreview: [
+    { costume: [Costume], level: 90 },
+    { costume: [Costume], level: 90 },
+    { costume: [Costume], level: 90 },
+    { costume: [Costume], level: 90 },
+    { costume: [Costume], level: 90 },
+    { costume: [Costume], level: 90 },
+    { costume: [Costume], level: 90 },
+    { costume: [Costume], level: 90 }
+  ],
+  nameCards: [
+    NameCard {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 210112,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      pictures: [Array],
+      itemType: 'ITEM_MATERIAL',
+      materialType: 'MATERIAL_NAMECARD',
+      stars: 4
+    },
+    NameCard {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 210004,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      pictures: [Array],
+      itemType: 'ITEM_MATERIAL',
+      materialType: 'MATERIAL_NAMECARD',
+      stars: 4
+    },
+    NameCard {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 210059,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      pictures: [Array],
+      itemType: 'ITEM_MATERIAL',
+      materialType: 'MATERIAL_NAMECARD',
+      stars: 4
+    },
+    NameCard {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 210136,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      pictures: [Array],
+      itemType: 'ITEM_MATERIAL',
+      materialType: 'MATERIAL_NAMECARD',
+      stars: 4
+    },
+    NameCard {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 210029,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      pictures: [Array],
+      itemType: 'ITEM_MATERIAL',
+      materialType: 'MATERIAL_NAMECARD',
+      stars: 4
+    },
+    NameCard {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 210070,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      pictures: [Array],
+      itemType: 'ITEM_MATERIAL',
+      materialType: 'MATERIAL_NAMECARD',
+      stars: 4
+    },
+    NameCard {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 210119,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      pictures: [Array],
+      itemType: 'ITEM_MATERIAL',
+      materialType: 'MATERIAL_NAMECARD',
+      stars: 4
+    },
+    NameCard {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 210174,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      pictures: [Array],
+      itemType: 'ITEM_MATERIAL',
+      materialType: 'MATERIAL_NAMECARD',
+      stars: 4
+    },
+    NameCard {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 210180,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      pictures: [Array],
+      itemType: 'ITEM_MATERIAL',
+      materialType: 'MATERIAL_NAMECARD',
+      stars: 4
+    }
+  ],
+  level: 60,
+  worldLevel: 8,
+  profileCard: NameCard {
+    _data: {
+      interactionTitleTextMapHash: 2239520679,
+      materialType: 'MATERIAL_NAMECARD',
+      stackLimit: 1000,
+      maxUseCount: 99,
+      useOnGain: true,
+      noFirstGetHint: true,
+      itemUse: [Array],
+      rankLevel: 4,
+      effectDescTextMapHash: 3354423479,
+      specialDescTextMapHash: 3959042497,
+      typeDescTextMapHash: 3584207398,
+      effectIcon: '',
+      effectName: '',
+      picPath: [Array],
+      satiationParams: [],
+      destroyReturnMaterial: [],
+      destroyReturnMaterialCount: [],
+      isForceGetHint: true,
+      id: 210119,
+      nameTextMapHash: 2757081100,
+      descTextMapHash: 1214115853,
+      icon: 'UI_NameCardIcon_Yelan',
+      itemType: 'ITEM_MATERIAL'
+    },
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    id: 210119,
+    name: TextAssets {
+      id: 2757081100,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    description: TextAssets {
+      id: 1214115853,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    icon: ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_NameCardIcon_Yelan',
+      imageBaseUrl: 'https://enka.network/ui',
+      url: 'https://enka.network/ui/UI_NameCardIcon_Yelan.png',
+      imageType: null,
+      mihoyoUrl: '',
+      isAvailable: true
+    },
+    pictures: [ [ImageAssets], [ImageAssets] ],
+    itemType: 'ITEM_MATERIAL',
+    materialType: 'MATERIAL_NAMECARD',
+    stars: 4
+  },
+  achievements: 1017,
+  spiralAbyss: { floor: 12, chamber: 3 },
+  ttl: 60,
+  enkaProfile: null,
+  enkaGameAccountHash: null,
+  url: 'https://enka.network/u/704264284/',
+  showCharacterDetails: true,
+  characters: [
+    Character {
+      enka: [EnkaClient],
+      _data: [Object],
+      characterData: [CharacterData],
+      costume: [Costume],
+      artifacts: [Array],
+      weapon: [Weapon],
+      stats: [CharacterStats],
+      level: 90,
+      xp: 0,
+      ascension: 6,
+      maxLevel: 90,
+      stamina: 240,
+      friendship: 6,
+      unlockedConstellations: [Array],
+      skillLevels: [Array],
+      unlockedPassiveTalents: [Array]
+    },
+    Character {
+      enka: [EnkaClient],
+      _data: [Object],
+      characterData: [CharacterData],
+      costume: [Costume],
+      artifacts: [Array],
+      weapon: [Weapon],
+      stats: [CharacterStats],
+      level: 90,
+      xp: 0,
+      ascension: 6,
+      maxLevel: 90,
+      stamina: 240,
+      friendship: 10,
+      unlockedConstellations: [Array],
+      skillLevels: [Array],
+      unlockedPassiveTalents: [Array]
+    },
+    Character {
+      enka: [EnkaClient],
+      _data: [Object],
+      characterData: [CharacterData],
+      costume: [Costume],
+      artifacts: [Array],
+      weapon: [Weapon],
+      stats: [CharacterStats],
+      level: 90,
+      xp: 0,
+      ascension: 6,
+      maxLevel: 90,
+      stamina: 240,
+      friendship: 10,
+      unlockedConstellations: [],
+      skillLevels: [Array],
+      unlockedPassiveTalents: [Array]
+    },
+    Character {
+      enka: [EnkaClient],
+      _data: [Object],
+      characterData: [CharacterData],
+      costume: [Costume],
+      artifacts: [Array],
+      weapon: [Weapon],
+      stats: [CharacterStats],
+      level: 90,
+      xp: 0,
+      ascension: 6,
+      maxLevel: 90,
+      stamina: 240,
+      friendship: 10,
+      unlockedConstellations: [],
+      skillLevels: [Array],
+      unlockedPassiveTalents: [Array]
+    },
+    Character {
+      enka: [EnkaClient],
+      _data: [Object],
+      characterData: [CharacterData],
+      costume: [Costume],
+      artifacts: [Array],
+      weapon: [Weapon],
+      stats: [CharacterStats],
+      level: 90,
+      xp: 0,
+      ascension: 6,
+      maxLevel: 90,
+      stamina: 240,
+      friendship: 10,
+      unlockedConstellations: [],
+      skillLevels: [Array],
+      unlockedPassiveTalents: [Array]
+    },
+    Character {
+      enka: [EnkaClient],
+      _data: [Object],
+      characterData: [CharacterData],
+      costume: [Costume],
+      artifacts: [Array],
+      weapon: [Weapon],
+      stats: [CharacterStats],
+      level: 90,
+      xp: 0,
+      ascension: 6,
+      maxLevel: 90,
+      stamina: 240,
+      friendship: 6,
+      unlockedConstellations: [],
+      skillLevels: [Array],
+      unlockedPassiveTalents: [Array]
+    },
+    Character {
+      enka: [EnkaClient],
+      _data: [Object],
+      characterData: [CharacterData],
+      costume: [Costume],
+      artifacts: [Array],
+      weapon: [Weapon],
+      stats: [CharacterStats],
+      level: 90,
+      xp: 0,
+      ascension: 6,
+      maxLevel: 90,
+      stamina: 240,
+      friendship: 10,
+      unlockedConstellations: [],
+      skillLevels: [Array],
+      unlockedPassiveTalents: [Array]
+    },
+    Character {
+      enka: [EnkaClient],
+      _data: [Object],
+      characterData: [CharacterData],
+      costume: [Costume],
+      artifacts: [Array],
+      weapon: [Weapon],
+      stats: [CharacterStats],
+      level: 90,
+      xp: 0,
+      ascension: 6,
+      maxLevel: 90,
+      stamina: 240,
+      friendship: 10,
+      unlockedConstellations: [],
+      skillLevels: [Array],
+      unlockedPassiveTalents: [Array]
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+NameCard {
+  _data: {
+    interactionTitleTextMapHash: 2239520679,
+    materialType: 'MATERIAL_NAMECARD',
+    stackLimit: 1000,
+    maxUseCount: 99,
+    useOnGain: true,
+    noFirstGetHint: true,
+    itemUse: [ [Object], [Object] ],
+    rankLevel: 4,
+    effectDescTextMapHash: 3354423479,
+    specialDescTextMapHash: 3959042497,
+    typeDescTextMapHash: 3584207398,
+    effectIcon: '',
+    effectName: '',
+    picPath: [ 'UI_NameCardPic_Yelan_Alpha', 'UI_NameCardPic_Yelan_P' ],
+    satiationParams: [],
+    destroyReturnMaterial: [],
+    destroyReturnMaterialCount: [],
+    isForceGetHint: true,
+    id: 210119,
+    nameTextMapHash: 2757081100,
+    descTextMapHash: 1214115853,
+    icon: 'UI_NameCardIcon_Yelan',
+    itemType: 'ITEM_MATERIAL'
+  },
+  enka: <ref *1> EnkaClient {
+    hoyoType: 0,
+    options: {
+      enkaUrl: 'https://enka.network',
+      defaultImageBaseUrl: 'https://api.ambr.top/assets/UI',
+      imageBaseUrlByRegex: [Object],
+      userAgent: 'Mozilla/5.0',
+      requestTimeout: 3000,
+      defaultLanguage: 'fr',
+      textAssetsDynamicData: [Object],
+      cacheDirectory: null,
+      showFetchCacheLog: true,
+      userCache: [Object],
+      githubToken: null,
+      enkaSystem: [EnkaSystem]
+    },
+    cachedAssetsManager: CachedAssetsManager {
+      enka: [Circular *1],
+      defaultCacheDirectoryPath: 'D:\\Autre\\DiscordBot\\BotMusic\\node_modules\\enka-network-api\\cache',
+      _contentsSrc: [Array],
+      _langs: [Array],
+      cacheDirectoryPath: 'D:\\Autre\\DiscordBot\\BotMusic\\node_modules\\enka-network-api\\cache',
+      _cacheUpdater: null,
+      _githubCache: null,
+      _isFetching: false
+    },
+    _tasks: [
+      Timeout {
+        _idleTimeout: 29000,
+        _idlePrev: [TimersList],
+        _idleNext: [TimersList],
+        _idleStart: 6851,
+        _onTimeout: [AsyncFunction (anonymous)],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: true,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 269,
+        [Symbol(triggerId)]: 0
+      }
+    ]
+  },
+  id: 210119,
+  name: TextAssets {
+    id: 2757081100,
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    convertToHtmlFormat: false,
+    directory: null
+  },
+  description: TextAssets {
+    id: 1214115853,
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    convertToHtmlFormat: false,
+    directory: null
+  },
+  icon: ImageAssets {
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    name: 'UI_NameCardIcon_Yelan',
+    imageBaseUrl: 'https://enka.network/ui',
+    url: 'https://enka.network/ui/UI_NameCardIcon_Yelan.png',
+    imageType: null,
+    mihoyoUrl: '',
+    isAvailable: true
+  },
+  pictures: [
+    ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_NameCardPic_Yelan_Alpha',
+      imageBaseUrl: 'https://enka.network/ui',
+      url: 'https://enka.network/ui/UI_NameCardPic_Yelan_Alpha.png',
+      imageType: null,
+      mihoyoUrl: '',
+      isAvailable: true
+    },
+    ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_NameCardPic_Yelan_P',
+      imageBaseUrl: 'https://enka.network/ui',
+      url: 'https://enka.network/ui/UI_NameCardPic_Yelan_Alpha.png',
+      imageType: null,
+      mihoyoUrl: '',
+      isAvailable: true
+    }
+  ],
+  itemType: 'ITEM_MATERIAL',
+  materialType: 'MATERIAL_NAMECARD',
+  stars: 4
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CharacterData {
+  _data: {
+    useType: 'AVATAR_FORMAL',
+    bodyType: 'BODY_GIRL',
+    scriptDataPathHash: 17851432353698654000,
+    iconName: 'UI_AvatarIcon_Keqing',
+    sideIconName: 'UI_AvatarIcon_Side_Keqing',
+    qualityType: 'QUALITY_ORANGE',
+    chargeEfficiency: 1,
+    combatConfigHash: 342013914990024100,
+    initialWeapon: 11101,
+    weaponType: 'WEAPON_SWORD_ONE_HAND',
+    manekinPathHash: 6811784296882718000,
+    imageName: 'AvatarImage_Forward_Keqing',
+    gachaCardNameHash: 14929910516096027000,
+    gachaImageNameHash: 9901167861865806000,
+    coopPicNameHash: 16207613741078673000,
+    cutsceneShow: '',
+    skillDepotId: 4201,
+    staminaRecoverSpeed: 25,
+    candSkillDepotIds: [],
+    manekinJsonConfigHash: 9497775839213009000,
+    manekinMotionConfig: 103,
+    descTextMapHash: 2249961857,
+    avatarIdentityType: 'AVATAR_IDENTITY_NORMAL',
+    avatarPromoteId: 42,
+    avatarPromoteRewardLevelList: [ 1, 3, 5 ],
+    avatarPromoteRewardIdList: [ 900291, 900293, 900295 ],
+    featureTagGroupID: 10000042,
+    infoDescTextMapHash: 2249961857,
+    animatorConfigPathHash: 15512389838557807000,
+    hpBase: 1020.0524291992188,
+    attackBase: 25.136999130249023,
+    defenseBase: 62.223201751708984,
+    critical: 0.05000000074505806,
+    criticalHurt: 0.5,
+    propGrowCurves: [ [Object], [Object], [Object] ],
+    prefabPathRagdollHash: 5972677743355781000,
+    deformationMeshPathHash: 16843554909179270000,
+    id: 10000042,
+    nameTextMapHash: 1864015138,
+    prefabPathHash: 18272230101258254000,
+    prefabPathRemoteHash: 12201153016779315000,
+    controllerPathHash: 16225375008636310000,
+    controllerPathRemoteHash: 5430374613602793000,
+    LODPatternName: ''
+  },
+  enka: <ref *1> EnkaClient {
+    hoyoType: 0,
+    options: {
+      enkaUrl: 'https://enka.network',
+      defaultImageBaseUrl: 'https://api.ambr.top/assets/UI',
+      imageBaseUrlByRegex: [Object],
+      userAgent: 'Mozilla/5.0',
+      requestTimeout: 3000,
+      defaultLanguage: 'fr',
+      textAssetsDynamicData: [Object],
+      cacheDirectory: null,
+      showFetchCacheLog: true,
+      userCache: [Object],
+      githubToken: null,
+      enkaSystem: [EnkaSystem]
+    },
+    cachedAssetsManager: CachedAssetsManager {
+      enka: [Circular *1],
+      defaultCacheDirectoryPath: 'D:\\Autre\\DiscordBot\\BotMusic\\node_modules\\enka-network-api\\cache',
+      _contentsSrc: [Array],
+      _langs: [Array],
+      cacheDirectoryPath: 'D:\\Autre\\DiscordBot\\BotMusic\\node_modules\\enka-network-api\\cache',
+      _cacheUpdater: null,
+      _githubCache: null,
+      _isFetching: false
+    },
+    _tasks: [
+      Timeout {
+        _idleTimeout: 60000,
+        _idlePrev: [TimersList],
+        _idleNext: [TimersList],
+        _idleStart: 14282,
+        _onTimeout: [AsyncFunction (anonymous)],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: true,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 338,
+        [Symbol(triggerId)]: 0
+      }
+    ]
+  },
+  id: 10000042,
+  name: TextAssets {
+    id: 1864015138,
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    convertToHtmlFormat: false,
+    directory: null
+  },
+  description: TextAssets {
+    id: 2249961857,
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    convertToHtmlFormat: false,
+    directory: null
+  },
+  bodyType: 'BODY_GIRL',
+  weaponType: 'WEAPON_SWORD_ONE_HAND',
+  gender: 'FEMALE',
+  _nameId: 'Keqing',
+  icon: ImageAssets {
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    name: 'UI_AvatarIcon_Keqing',
+    imageBaseUrl: 'https://api.ambr.top/assets/UI',
+    url: 'https://api.ambr.top/assets/UI/UI_AvatarIcon_Keqing.png',
+    imageType: 'character_icon',
+    mihoyoUrl: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png',
+    isAvailable: true
+  },
+  sideIcon: ImageAssets {
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    name: 'UI_AvatarIcon_Side_Keqing',
+    imageBaseUrl: 'https://enka.network/ui',
+    url: 'https://enka.network/ui/UI_AvatarIcon_Side_Keqing.png',
+    imageType: 'character_side_icon',
+    mihoyoUrl: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_Keqing.png',
+    isAvailable: true
+  },
+  splashImage: ImageAssets {
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    name: 'UI_Gacha_AvatarImg_Keqing',
+    imageBaseUrl: 'https://api.ambr.top/assets/UI',
+    url: 'https://api.ambr.top/assets/UI/UI_Gacha_AvatarImg_Keqing.png',
+    imageType: null,
+    mihoyoUrl: '',
+    isAvailable: true
+  },
+  gachaSlice: ImageAssets {
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    name: 'UI_Gacha_AvatarIcon_Keqing',
+    imageBaseUrl: 'https://api.ambr.top/assets/UI',
+    url: 'https://api.ambr.top/assets/UI/UI_Gacha_AvatarIcon_Keqing.png',
+    imageType: null,
+    mihoyoUrl: '',
+    isAvailable: true
+  },
+  cardIcon: ImageAssets {
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    name: 'UI_AvatarIcon_Keqing_Card',
+    imageBaseUrl: 'https://enka.network/ui',
+    url: 'https://enka.network/ui/UI_AvatarIcon_Keqing_Card.png',
+    imageType: 'character_icon',
+    mihoyoUrl: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing_Card.png',
+    isAvailable: true
+  },
+  nameCard: NameCard {
+    _data: {
+      interactionTitleTextMapHash: 3008511943,
+      materialType: 'MATERIAL_NAMECARD',
+      stackLimit: 1000,
+      maxUseCount: 99,
+      useOnGain: true,
+      noFirstGetHint: true,
+      itemUse: [Array],
+      rankLevel: 4,
+      effectDescTextMapHash: 3190114103,
+      specialDescTextMapHash: 680959585,
+      typeDescTextMapHash: 1800669542,
+      effectIcon: '',
+      effectName: '',
+      picPath: [Array],
+      satiationParams: [],
+      destroyReturnMaterial: [],
+      destroyReturnMaterialCount: [],
+      isForceGetHint: true,
+      id: 210020,
+      nameTextMapHash: 3585227580,
+      descTextMapHash: 2676367461,
+      icon: 'UI_NameCardIcon_Keqing',
+      itemType: 'ITEM_MATERIAL'
+    },
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    id: 210020,
+    name: TextAssets {
+      id: 3585227580,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    description: TextAssets {
+      id: 2676367461,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    icon: ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_NameCardIcon_Keqing',
+      imageBaseUrl: 'https://enka.network/ui',
+      url: 'https://enka.network/ui/UI_NameCardIcon_Keqing.png',
+      imageType: null,
+      mihoyoUrl: '',
+      isAvailable: true
+    },
+    pictures: [ [ImageAssets], [ImageAssets] ],
+    itemType: 'ITEM_MATERIAL',
+    materialType: 'MATERIAL_NAMECARD',
+    stars: 4
+  },
+  rarity: 'QUALITY_ORANGE',
+  stars: 5,
+  _costumeData: [
+    {
+      skinId: 204201,
+      indexID: 1,
+      nameTextMapHash: 1613857666,
+      descTextMapHash: 1532026282,
+      itemId: 340003,
+      characterId: 10000042,
+      jsonName: 'Avatar_Girl_Sword_KeqingCostumeFeather',
+      prefabPathHash: 10364379182659254000,
+      prefabRemotePathHash: 6372458023003575000,
+      prefabNpcPathHash: 12660355485795350000,
+      prefabManekinPathHash: 11708378725870790000,
+      quality: 4,
+      frontIconName: 'UI_AvatarIcon_KeqingCostumeFeather',
+      sideIconName: 'UI_AvatarIcon_Side_KeqingCostumeFeather',
+      imageNameHash: 8264683658462126000
+    },
+    {
+      skinId: 204200,
+      nameTextMapHash: 3714413314,
+      descTextMapHash: 1992333442,
+      characterId: 10000042,
+      jsonName: '',
+      isDefault: true,
+      frontIconName: '',
+      sideIconName: ''
+    }
+  ],
+  costumes: [
+    Costume {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 204201,
+      name: [TextAssets],
+      description: [TextAssets],
+      characterId: 10000042,
+      isDefault: false,
+      _nameId: 'KeqingCostumeFeather',
+      icon: [ImageAssets],
+      sideIcon: [ImageAssets],
+      splashImage: [ImageAssets],
+      stars: 4,
+      cardIcon: [ImageAssets]
+    },
+    Costume {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 204200,
+      name: [TextAssets],
+      description: [TextAssets],
+      characterId: 10000042,
+      isDefault: true,
+      _nameId: 'Keqing',
+      icon: [ImageAssets],
+      sideIcon: [ImageAssets],
+      splashImage: [ImageAssets],
+      stars: null,
+      cardIcon: [ImageAssets]
+    }
+  ],
+  skillDepotId: 4201,
+  _skillData: {
+    id: 4201,
+    energySkill: 10425,
+    skills: [ 10421, 10422, 0, 0 ],
+    subSkills: [ 10001, 10101, 10102, 10423, 5042010 ],
+    extraAbilities: [ '', '', '' ],
+    talents: [ 421, 422, 423, 424, 425, 426 ],
+    talentStarName: 'Talent_Keqing',
+    inherentProudSkillOpens: [ [Object], [Object], [Object], {}, {} ],
+    skillDepotAbilityGroup: ''
+  },
+  arkhe: null,
+  elementalBurst: ElementalBurst {
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    _data: {
+      id: 10425,
+      nameTextMapHash: 535180037,
+      abilityName: '',
+      descTextMapHash: 3277139448,
+      skillIcon: 'Skill_E_Keqing_01',
+      cdTime: 12,
+      costElemType: 'Electric',
+      costElemVal: 40,
+      maxChargeNum: 1,
+      triggerID: 5,
+      lockShape: 'CircleLockEnemyR5H6HC',
+      lockWeightParams: [Array],
+      isAttackCameraLock: true,
+      buffIcon: '',
+      proudSkillGroupId: 4239,
+      globalValueKey: ''
+    },
+    id: 10425,
+    name: TextAssets {
+      id: 535180037,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    description: DynamicTextAssets {
+      id: 3277139448,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null,
+      dynamicData: [Object]
+    },
+    icon: ImageAssets {
+      enka: [EnkaClient],
+      name: 'Skill_E_Keqing_01',
+      imageBaseUrl: 'https://api.ambr.top/assets/UI',
+      url: 'https://api.ambr.top/assets/UI/Skill_E_Keqing_01.png',
+      imageType: null,
+      mihoyoUrl: '',
+      isAvailable: true
+    },
+    maxCharge: 1,
+    cooldown: 12,
+    costElemType: Element {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 'Electric',
+      name: [TextAssets]
+    },
+    costElemVal: 40
+  },
+  element: Element {
+    _data: {
+      textMapId: 'Electric',
+      textMapContentTextMapHash: 1844493602,
+      paramTypes: [Array]
+    },
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    id: 'Electric',
+    name: TextAssets {
+      id: 1844493602,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    }
+  },
+  skills: [
+    NormalAttack {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 10421,
+      name: [TextAssets],
+      description: [DynamicTextAssets],
+      icon: [ImageAssets]
+    },
+    ElementalSkill {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 10422,
+      name: [TextAssets],
+      description: [DynamicTextAssets],
+      icon: [ImageAssets],
+      maxCharge: 1,
+      cooldown: 7.5
+    },
+    ElementalBurst {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 10425,
+      name: [TextAssets],
+      description: [DynamicTextAssets],
+      icon: [ImageAssets],
+      maxCharge: 1,
+      cooldown: 12,
+      costElemType: [Element],
+      costElemVal: 40
+    }
+  ],
+  elementalSkill: ElementalSkill {
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    _data: {
+      id: 10422,
+      nameTextMapHash: 2146753981,
+      abilityName: '',
+      descTextMapHash: 990496552,
+      skillIcon: 'Skill_S_Keqing_01',
+      cdTime: 7.5,
+      maxChargeNum: 1,
+      triggerID: 2,
+      lockShape: 'CircleLockEnemyR15H10HC',
+      lockWeightParams: [Array],
+      isAttackCameraLock: true,
+      buffIcon: '',
+      proudSkillGroupId: 4232,
+      globalValueKey: ''
+    },
+    id: 10422,
+    name: TextAssets {
+      id: 2146753981,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    description: DynamicTextAssets {
+      id: 990496552,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null,
+      dynamicData: [Object]
+    },
+    icon: ImageAssets {
+      enka: [EnkaClient],
+      name: 'Skill_S_Keqing_01',
+      imageBaseUrl: 'https://api.ambr.top/assets/UI',
+      url: 'https://api.ambr.top/assets/UI/Skill_S_Keqing_01.png',
+      imageType: null,
+      mihoyoUrl: '',
+      isAvailable: true
+    },
+    maxCharge: 1,
+    cooldown: 7.5
+  },
+  normalAttack: NormalAttack {
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    _data: {
+      id: 10421,
+      nameTextMapHash: 1732155229,
+      abilityName: 'Avatar_Keqing_ExtraAttack',
+      descTextMapHash: 3229237400,
+      skillIcon: 'Skill_A_01',
+      maxChargeNum: 1,
+      lockShape: 'CircleLockEnemyR5H6HC',
+      lockWeightParams: [Array],
+      isAttackCameraLock: true,
+      buffIcon: '',
+      proudSkillGroupId: 4231,
+      globalValueKey: ''
+    },
+    id: 10421,
+    name: TextAssets {
+      id: 1732155229,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    description: DynamicTextAssets {
+      id: 3229237400,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null,
+      dynamicData: [Object]
+    },
+    icon: ImageAssets {
+      enka: [EnkaClient],
+      name: 'Skill_A_01',
+      imageBaseUrl: 'https://api.ambr.top/assets/UI',
+      url: 'https://api.ambr.top/assets/UI/Skill_A_01.png',
+      imageType: null,
+      mihoyoUrl: '',
+      isAvailable: true
+    }
+  },
+  passiveTalents: [
+    PassiveTalent {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 422101,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      requiredAscension: 1,
+      addProps: [],
+      isHidden: false
+    },
+    PassiveTalent {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 422201,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      requiredAscension: 4,
+      addProps: [],
+      isHidden: false
+    },
+    PassiveTalent {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 422301,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      requiredAscension: 0,
+      addProps: [],
+      isHidden: false
+    }
+  ],
+  constellations: [
+    Constellation {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 421,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      addProps: [],
+      paramList: [Array]
+    },
+    Constellation {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 422,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      addProps: [],
+      paramList: [Array]
+    },
+    Constellation {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 423,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      addProps: [],
+      paramList: [Array]
+    },
+    Constellation {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 424,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      addProps: [],
+      paramList: [Array]
+    },
+    Constellation {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 425,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      addProps: [],
+      paramList: [Array]
+    },
+    Constellation {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 426,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      addProps: [],
+      paramList: [Array]
+    }
+  ],
+  _releaseData: {
+    sortId: 5,
+    sortFactor: 19,
+    avatarId: 10000042,
+    beginTime: '2020-09-15 04:00:00'
+  },
+  releasedAt: 2020-09-14T20:00:00.000Z,
+  isArchon: false,
+  isTraveler: false,
+  details: CharacterDetails {
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    _data: {
+      infoBirthMonth: 11,
+      infoBirthDay: 20,
+      avatarNativeTextMapHash: 4010071745,
+      avatarVisionBeforTextMapHash: 1821644548,
+      avatarConstellationBeforTextMapHash: 3587152074,
+      avatarTitleTextMapHash: 3308312162,
+      avatarDetailTextMapHash: 2307865106,
+      avatarAssocType: 'ASSOC_TYPE_LIYUE',
+      cvChineseTextMapHash: 2566021790,
+      cvJapaneseTextMapHash: 1314550072,
+      cvEnglishTextMapHash: 276019972,
+      cvKoreanTextMapHash: 3586027263,
+      avatarVisionAfterTextMapHash: 373974425,
+      avatarConstellationAfterTextMapHash: 1744331243,
+      AMOCIMEIEOG: 316548354,
+      DOEBOFLEBLL: 1905310704,
+      fetterId: 129,
+      avatarId: 10000042,
+      openConds: [],
+      finishConds: [Array]
+    },
+    id: 129,
+    characterId: 10000042,
+    _nameId: 'Keqing',
+    birthday: { month: 11, day: 20 },
+    location: TextAssets {
+      id: 4010071745,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    vision: TextAssets {
+      id: 1821644548,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    constellation: TextAssets {
+      id: 3587152074,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    constellationIcon: ImageAssets {
+      enka: [EnkaClient],
+      name: 'Eff_UI_Talent_Keqing',
+      imageBaseUrl: 'https://res.cloudinary.com/genshin/image/upload/sprites',
+      url: 'https://res.cloudinary.com/genshin/image/upload/sprites/Eff_UI_Talent_Keqing.png',
+      imageType: null,
+      mihoyoUrl: '',
+      isAvailable: true
+    },
+    title: TextAssets {
+      id: 3308312162,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    description: TextAssets {
+      id: 2307865106,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    cv: {
+      chinese: [TextAssets],
+      japanese: [TextAssets],
+      english: [TextAssets],
+      korean: [TextAssets]
+    }
+  }
+}
+
+
+
+
+
+
+
+Character {
+  enka: <ref *1> EnkaClient {
+    hoyoType: 0,
+    options: {
+      enkaUrl: 'https://enka.network',
+      defaultImageBaseUrl: 'https://api.ambr.top/assets/UI',
+      imageBaseUrlByRegex: [Object],
+      userAgent: 'Mozilla/5.0',
+      requestTimeout: 3000,
+      defaultLanguage: 'fr',
+      textAssetsDynamicData: [Object],
+      cacheDirectory: null,
+      showFetchCacheLog: true,
+      userCache: [Object],
+      githubToken: null,
+      enkaSystem: [EnkaSystem]
+    },
+    cachedAssetsManager: CachedAssetsManager {
+      enka: [Circular *1],
+      defaultCacheDirectoryPath: 'D:\\Autre\\DiscordBot\\BotMusic\\node_modules\\enka-network-api\\cache',
+      _contentsSrc: [Array],
+      _langs: [Array],
+      cacheDirectoryPath: 'D:\\Autre\\DiscordBot\\BotMusic\\node_modules\\enka-network-api\\cache',
+      _cacheUpdater: null,
+      _githubCache: null,
+      _isFetching: false
+    },
+    _tasks: [
+      Timeout {
+        _idleTimeout: 9000,
+        _idlePrev: [TimersList],
+        _idleNext: [TimersList],
+        _idleStart: 38516,
+        _onTimeout: [AsyncFunction (anonymous)],
+        _timerArgs: undefined,
+        _repeat: null,
+        _destroyed: false,
+        [Symbol(refed)]: true,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 342,
+        [Symbol(triggerId)]: 0
+      }
+    ]
+  },
+  _data: {
+    avatarId: 10000005,
+    propMap: {
+      '1001': [Object],
+      '1002': [Object],
+      '1003': [Object],
+      '1004': [Object],
+      '4001': [Object],
+      '10010': [Object],
+      '10049': [Object]
+    },
+    talentIdList: [ 111, 112, 113, 114, 115 ],
+    fightPropMap: {
+      '1': 10799.236328125,
+      '2': 2145.1298828125,
+      '3': 0.1281999945640564,
+      '4': 614.579833984375,
+      '5': 126.76000213623047,
+      '6': 0.42659997940063477,
+      '7': 677.7718505859375,
+      '9': 0.20409999787807465,
+      '20': 0.07720000296831131,
+      '21': 0,
+      '22': 0.6552000045776367,
+      '23': 1.6687653064727783,
+      '26': 0,
+      '27': 0,
+      '28': 199.1199951171875,
+      '29': 0,
+      '30': 0,
+      '40': 0,
+      '41': 0,
+      '42': 0,
+      '43': 0.15000000596046448,
+      '44': 0,
+      '45': 0,
+      '46': 0,
+      '50': 0,
+      '51': 0,
+      '52': 0,
+      '53': 0,
+      '54': 0,
+      '55': 0,
+      '56': 0,
+      '73': 80,
+      '1003': 46.22038650512695,
+      '1010': 4990.2294921875,
+      '2000': 14328.8291015625,
+      '2001': 1003.5195922851562,
+      '2002': 816.1051025390625,
+      '2003': 0,
+      '2004': 0,
+      '3045': 0,
+      '3046': 1
+    },
+    skillDepotId: 508,
+    inherentProudSkillList: [ 112101, 112201 ],
+    skillLevelMap: { '10117': 1, '10118': 1, '100547': 1 },
+    proudSkillExtraLevelMap: { '1132': 3, '1139': 3 },
+    equipList: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    fetterInfo: { expLevel: 1 }
+  },
+  characterData: CharacterData {
+    _data: {
+      useType: 'AVATAR_FORMAL',
+      bodyType: 'BODY_BOY',
+      scriptDataPathHash: 7535910857308707000,
+      iconName: 'UI_AvatarIcon_PlayerBoy',
+      sideIconName: 'UI_AvatarIcon_Side_PlayerBoy',
+      qualityType: 'QUALITY_ORANGE',
+      chargeEfficiency: 1,
+      combatConfigHash: 17235148253593516000,
+      initialWeapon: 11101,
+      weaponType: 'WEAPON_SWORD_ONE_HAND',
+      manekinPathHash: 13175549174031480000,
+      imageName: 'AvatarImage_Forward_Kate',
+      gachaCardNameHash: 16389562141951906000,
+      gachaImageNameHash: 14221540145986402000,
+      coopPicNameHash: 1449215332620924400,
+      cutsceneShow: '',
+      skillDepotId: 501,
+      staminaRecoverSpeed: 25,
+      candSkillDepotIds: [Array],
+      manekinJsonConfigHash: 11399707893598482000,
+      manekinMotionConfig: 103,
+      descTextMapHash: 1204666377,
+      avatarPromoteId: 12,
+      avatarPromoteRewardLevelList: [Array],
+      avatarPromoteRewardIdList: [Array],
+      featureTagGroupID: 10000005,
+      infoDescTextMapHash: 1204666377,
+      animatorConfigPathHash: 7754788227283632000,
+      hpBase: 911.791015625,
+      attackBase: 17.808000564575195,
+      defenseBase: 57.224998474121094,
+      critical: 0.05000000074505806,
+      criticalHurt: 0.5,
+      propGrowCurves: [Array],
+      prefabPathRagdollHash: 10835697352081943000,
+      deformationMeshPathHash: 856195021060268200,
+      id: 10000005,
+      nameTextMapHash: 1533656818,
+      prefabPathHash: 15226614807408240000,
+      prefabPathRemoteHash: 12536773066255942000,
+      controllerPathHash: 17650043375074423000,
+      controllerPathRemoteHash: 10948695505325058000,
+      LODPatternName: ''
+    },
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    id: 10000005,
+    name: TextAssets {
+      id: 1533656818,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    description: TextAssets {
+      id: 1204666377,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    bodyType: 'BODY_BOY',
+    weaponType: 'WEAPON_SWORD_ONE_HAND',
+    gender: 'MALE',
+    _nameId: 'PlayerBoy',
+    icon: ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_AvatarIcon_PlayerBoy',
+      imageBaseUrl: 'https://api.ambr.top/assets/UI',
+      url: 'https://api.ambr.top/assets/UI/UI_AvatarIcon_PlayerBoy.png',
+      imageType: 'character_icon',
+      mihoyoUrl: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png',
+      isAvailable: true
+    },
+    sideIcon: ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_AvatarIcon_Side_PlayerBoy',
+      imageBaseUrl: 'https://enka.network/ui',
+      url: 'https://enka.network/ui/UI_AvatarIcon_Side_PlayerBoy.png',
+      imageType: 'character_side_icon',
+      mihoyoUrl: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerBoy.png',
+      isAvailable: true
+    },
+    splashImage: ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_Gacha_AvatarImg_PlayerBoy',
+      imageBaseUrl: 'https://api.ambr.top/assets/UI',
+      url: 'https://api.ambr.top/assets/UI/UI_Gacha_AvatarImg_PlayerBoy.png',
+      imageType: null,
+      mihoyoUrl: '',
+      isAvailable: true
+    },
+    gachaSlice: ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_Gacha_AvatarIcon_PlayerBoy',
+      imageBaseUrl: 'https://api.ambr.top/assets/UI',
+      url: 'https://api.ambr.top/assets/UI/UI_Gacha_AvatarIcon_PlayerBoy.png',
+      imageType: null,
+      mihoyoUrl: '',
+      isAvailable: true
+    },
+    cardIcon: ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_AvatarIcon_PlayerBoy_Card',
+      imageBaseUrl: 'https://enka.network/ui',
+      url: 'https://enka.network/ui/UI_AvatarIcon_PlayerBoy_Card.png',
+      imageType: 'character_icon',
+      mihoyoUrl: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy_Card.png',
+      isAvailable: true
+    },
+    nameCard: null,
+    rarity: 'QUALITY_ORANGE',
+    stars: 5,
+    _costumeData: [ [Object] ],
+    costumes: [ [Costume] ],
+    skillDepotId: 508,
+    _skillData: {
+      id: 508,
+      energySkill: 10118,
+      skills: [Array],
+      subSkills: [Array],
+      extraAbilities: [Array],
+      talents: [Array],
+      talentStarName: 'Talent_PlayerBoy_Grass',
+      inherentProudSkillOpens: [Array],
+      skillDepotAbilityGroup: 'Avatar_Player_AbilityGroup_Boy_Grass'
+    },
+    arkhe: null,
+    elementalBurst: ElementalBurst {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 10118,
+      name: [TextAssets],
+      description: [DynamicTextAssets],
+      icon: [ImageAssets],
+      maxCharge: 1,
+      cooldown: 20,
+      costElemType: [Element],
+      costElemVal: 80
+    },
+    element: Element {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 'Grass',
+      name: [TextAssets]
+    },
+    skills: [ [NormalAttack], [ElementalSkill], [ElementalBurst] ],
+    elementalSkill: ElementalSkill {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 10117,
+      name: [TextAssets],
+      description: [DynamicTextAssets],
+      icon: [ImageAssets],
+      maxCharge: 1,
+      cooldown: 8
+    },
+    normalAttack: NormalAttack {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 100547,
+      name: [TextAssets],
+      description: [DynamicTextAssets],
+      icon: [ImageAssets]
+    },
+    passiveTalents: [ [PassiveTalent], [PassiveTalent] ],
+    constellations: [
+      [Constellation],
+      [Constellation],
+      [Constellation],
+      [Constellation],
+      [Constellation],
+      [Constellation]
+    ],
+    _releaseData: null,
+    releasedAt: null,
+    isArchon: false,
+    isTraveler: true,
+    details: CharacterDetails {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 103,
+      characterId: 10000005,
+      _nameId: 'PlayerBoy',
+      birthday: null,
+      location: [TextAssets],
+      vision: [TextAssets],
+      constellation: [TextAssets],
+      constellationIcon: [ImageAssets],
+      title: [TextAssets],
+      description: [TextAssets],
+      cv: [Object]
+    }
+  },
+  costume: Costume {
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    _data: {
+      skinId: 200500,
+      nameTextMapHash: 1648736450,
+      descTextMapHash: 2814665554,
+      characterId: 10000005,
+      jsonName: '',
+      isDefault: true,
+      frontIconName: '',
+      sideIconName: ''
+    },
+    id: 200500,
+    name: TextAssets {
+      id: 1648736450,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    description: TextAssets {
+      id: 2814665554,
+      enka: [EnkaClient],
+      convertToHtmlFormat: false,
+      directory: null
+    },
+    characterId: 10000005,
+    isDefault: true,
+    _nameId: 'PlayerBoy',
+    icon: ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_AvatarIcon_PlayerBoy',
+      imageBaseUrl: 'https://api.ambr.top/assets/UI',
+      url: 'https://api.ambr.top/assets/UI/UI_AvatarIcon_PlayerBoy.png',
+      imageType: 'character_icon',
+      mihoyoUrl: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_PlayerBoy.png',
+      isAvailable: true
+    },
+    sideIcon: ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_AvatarIcon_Side_PlayerBoy',
+      imageBaseUrl: 'https://enka.network/ui',
+      url: 'https://enka.network/ui/UI_AvatarIcon_Side_PlayerBoy.png',
+      imageType: 'character_side_icon',
+      mihoyoUrl: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/character_side_icon/UI_AvatarIcon_Side_PlayerBoy.png',
+      isAvailable: true
+    },
+    splashImage: ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_Gacha_AvatarImg_PlayerBoy',
+      imageBaseUrl: 'https://api.ambr.top/assets/UI',
+      url: 'https://api.ambr.top/assets/UI/UI_Gacha_AvatarImg_PlayerBoy.png',
+      imageType: null,
+      mihoyoUrl: '',
+      isAvailable: true
+    },
+    stars: null,
+    cardIcon: ImageAssets {
+      enka: [EnkaClient],
+      name: 'UI_AvatarIcon_Costume_Card',
+      imageBaseUrl: 'https://enka.network/ui',
+      url: 'https://enka.network/ui/UI_AvatarIcon_Costume_Card.png',
+      imageType: 'character_icon',
+      mihoyoUrl: 'https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Costume_Card.png',
+      isAvailable: true
+    }
+  },
+  artifacts: [
+    Artifact {
+      location: 'Traveler',
+      enka: [EnkaClient],
+      _data: [Object],
+      artifactData: [ArtifactData],
+      level: 7,
+      mainstat: [StatProperty],
+      substats: [Object]
+    },
+    Artifact {
+      location: 'Traveler',
+      enka: [EnkaClient],
+      _data: [Object],
+      artifactData: [ArtifactData],
+      level: 1,
+      mainstat: [StatProperty],
+      substats: [Object]
+    },
+    Artifact {
+      location: 'Traveler',
+      enka: [EnkaClient],
+      _data: [Object],
+      artifactData: [ArtifactData],
+      level: 17,
+      mainstat: [StatProperty],
+      substats: [Object]
+    },
+    Artifact {
+      location: 'Traveler',
+      enka: [EnkaClient],
+      _data: [Object],
+      artifactData: [ArtifactData],
+      level: 1,
+      mainstat: [StatProperty],
+      substats: [Object]
+    },
+    Artifact {
+      location: 'Traveler',
+      enka: [EnkaClient],
+      _data: [Object],
+      artifactData: [ArtifactData],
+      level: 1,
+      mainstat: [StatProperty],
+      substats: [Object]
+    }
+  ],
+  weapon: Weapon {
+    location: 'Traveler',
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    _data: { itemId: 11401, weapon: [Object], flat: [Object] },
+    weaponData: WeaponData {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 11401,
+      name: [TextAssets],
+      description: [TextAssets],
+      _nameId: 'Sword_Zephyrus',
+      icon: [ImageAssets],
+      awakenIcon: [ImageAssets],
+      stars: 4,
+      weaponType: 'WEAPON_SWORD_ONE_HAND',
+      _weaponTypeData: [Object],
+      weaponTypeName: [TextAssets],
+      refinements: [Array]
+    },
+    refinementRank: 2,
+    refinement: WeaponRefinement {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 111401,
+      level: 2,
+      name: [TextAssets],
+      description: [TextAssets],
+      addProps: [],
+      paramList: [Array]
+    },
+    level: 80,
+    ascension: 5,
+    maxLevel: 80,
+    isAwaken: true,
+    weaponStats: [ [StatProperty], [StatProperty] ]
+  },
+  stats: CharacterStats {
+    _data: {
+      '1': 10799.236328125,
+      '2': 2145.1298828125,
+      '3': 0.1281999945640564,
+      '4': 614.579833984375,
+      '5': 126.76000213623047,
+      '6': 0.42659997940063477,
+      '7': 677.7718505859375,
+      '9': 0.20409999787807465,
+      '20': 0.07720000296831131,
+      '21': 0,
+      '22': 0.6552000045776367,
+      '23': 1.6687653064727783,
+      '26': 0,
+      '27': 0,
+      '28': 199.1199951171875,
+      '29': 0,
+      '30': 0,
+      '40': 0,
+      '41': 0,
+      '42': 0,
+      '43': 0.15000000596046448,
+      '44': 0,
+      '45': 0,
+      '46': 0,
+      '50': 0,
+      '51': 0,
+      '52': 0,
+      '53': 0,
+      '54': 0,
+      '55': 0,
+      '56': 0,
+      '73': 80,
+      '1003': 46.22038650512695,
+      '1010': 4990.2294921875,
+      '2000': 14328.8291015625,
+      '2001': 1003.5195922851562,
+      '2002': 816.1051025390625,
+      '2003': 0,
+      '2004': 0,
+      '3045': 0,
+      '3046': 1
+    },
+    enka: <ref *1> EnkaClient {
+      hoyoType: 0,
+      options: [Object],
+      cachedAssetsManager: [CachedAssetsManager],
+      _tasks: [Array]
+    },
+    healthBase: StatProperty {
+      fightProp: 'FIGHT_PROP_BASE_HP',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: false,
+      rawValue: 10799.236328125,
+      value: 10799.23632813
+    },
+    healthFlat: StatProperty {
+      fightProp: 'FIGHT_PROP_HP',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: false,
+      rawValue: 2145.1298828125,
+      value: 2145.12988281
+    },
+    healthPercent: StatProperty {
+      fightProp: 'FIGHT_PROP_HP_PERCENT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0.1281999945640564,
+      value: 0.12819999
+    },
+    attackBase: StatProperty {
+      fightProp: 'FIGHT_PROP_BASE_ATTACK',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: false,
+      rawValue: 614.579833984375,
+      value: 614.57983398
+    },
+    attackFlat: StatProperty {
+      fightProp: 'FIGHT_PROP_ATTACK',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: false,
+      rawValue: 126.76000213623047,
+      value: 126.76000214
+    },
+    attackPercent: StatProperty {
+      fightProp: 'FIGHT_PROP_ATTACK_PERCENT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0.42659997940063477,
+      value: 0.42659998
+    },
+    defenseBase: StatProperty {
+      fightProp: 'FIGHT_PROP_BASE_DEFENSE',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: false,
+      rawValue: 677.7718505859375,
+      value: 677.77185059
+    },
+    defenseFlat: StatProperty {
+      fightProp: 'FIGHT_PROP_DEFENSE',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: false,
+      rawValue: 0,
+      value: 0
+    },
+    defensePercent: StatProperty {
+      fightProp: 'FIGHT_PROP_DEFENSE_PERCENT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0.20409999787807465,
+      value: 0.2041
+    },
+    speedBase: StatProperty {
+      fightProp: 'FIGHT_PROP_BASE_SPEED',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: false,
+      rawValue: 0,
+      value: 0
+    },
+    speedPercent: StatProperty {
+      fightProp: 'FIGHT_PROP_SPEED_PERCENT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    critRate: StatProperty {
+      fightProp: 'FIGHT_PROP_CRITICAL',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0.07720000296831131,
+      value: 0.0772
+    },
+    critDamage: StatProperty {
+      fightProp: 'FIGHT_PROP_CRITICAL_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0.6552000045776367,
+      value: 0.6552
+    },
+    chargeEfficiency: StatProperty {
+      fightProp: 'FIGHT_PROP_CHARGE_EFFICIENCY',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 1.6687653064727783,
+      value: 1.66876531
+    },
+    healAdd: StatProperty {
+      fightProp: 'FIGHT_PROP_HEAL_ADD',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    healedAdd: StatProperty {
+      fightProp: 'FIGHT_PROP_HEALED_ADD',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    elementMastery: StatProperty {
+      fightProp: 'FIGHT_PROP_ELEMENT_MASTERY',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: false,
+      rawValue: 199.1199951171875,
+      value: 199.11999512
+    },
+    physicalRes: StatProperty {
+      fightProp: 'FIGHT_PROP_PHYSICAL_SUB_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    physicalDamage: StatProperty {
+      fightProp: 'FIGHT_PROP_PHYSICAL_ADD_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    pyroDamage: StatProperty {
+      fightProp: 'FIGHT_PROP_FIRE_ADD_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    electroDamage: StatProperty {
+      fightProp: 'FIGHT_PROP_ELEC_ADD_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    hydroDamage: StatProperty {
+      fightProp: 'FIGHT_PROP_WATER_ADD_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    dendroDamage: StatProperty {
+      fightProp: 'FIGHT_PROP_GRASS_ADD_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0.15000000596046448,
+      value: 0.15000001
+    },
+    anemoDamage: StatProperty {
+      fightProp: 'FIGHT_PROP_WIND_ADD_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    geoDamage: StatProperty {
+      fightProp: 'FIGHT_PROP_ROCK_ADD_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    cryoDamage: StatProperty {
+      fightProp: 'FIGHT_PROP_ICE_ADD_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    pyroRes: StatProperty {
+      fightProp: 'FIGHT_PROP_FIRE_SUB_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    electroRes: StatProperty {
+      fightProp: 'FIGHT_PROP_ELEC_SUB_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    hydroRes: StatProperty {
+      fightProp: 'FIGHT_PROP_WATER_SUB_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    dendroRes: StatProperty {
+      fightProp: 'FIGHT_PROP_GRASS_SUB_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    anemoRes: StatProperty {
+      fightProp: 'FIGHT_PROP_WIND_SUB_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    geoRes: StatProperty {
+      fightProp: 'FIGHT_PROP_ROCK_SUB_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    cryoRes: StatProperty {
+      fightProp: 'FIGHT_PROP_ICE_SUB_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    matchedElementDamage: StatProperty {
+      fightProp: 'FIGHT_PROP_GRASS_ADD_HURT',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0.15000000596046448,
+      value: 0.15000001
+    },
+    highestDamageBonus: [ [StatProperty] ],
+    pyroEnergyCost: 0,
+    electroEnergyCost: 0,
+    hydroEnergyCost: 0,
+    dendroEnergyCost: 80,
+    anemoEnergyCost: 0,
+    cryoEnergyCost: 0,
+    geoEnergyCost: 0,
+    energyCost: 80,
+    cooldownReduction: StatProperty {
+      fightProp: 'FIGHT_PROP_SKILL_CD_MINUS_RATIO',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    shieldStrength: StatProperty {
+      fightProp: 'FIGHT_PROP_SHIELD_COST_MINUS_RATIO',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: true,
+      rawValue: 0,
+      value: 0
+    },
+    currentPyroEnergy: 0,
+    currentElectroEnergy: 0,
+    currentHydroEnergy: 0,
+    currentDendroEnergy: 46.22038650512695,
+    currentAnemoEnergy: 0,
+    currentCryoEnergy: 0,
+    currentGeoEnergy: 0,
+    currentEnergy: 46.22038650512695,
+    currentHealth: StatProperty {
+      fightProp: 'FIGHT_PROP_CUR_HP',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: false,
+      rawValue: 4990.2294921875,
+      value: 4990.22949219
+    },
+    maxHealth: StatProperty {
+      fightProp: 'FIGHT_PROP_MAX_HP',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: false,
+      rawValue: 14328.8291015625,
+      value: 14328.82910156
+    },
+    attack: StatProperty {
+      fightProp: 'FIGHT_PROP_CUR_ATTACK',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: false,
+      rawValue: 1003.5195922851562,
+      value: 1003.51959229
+    },
+    defense: StatProperty {
+      fightProp: 'FIGHT_PROP_CUR_DEFENSE',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: false,
+      rawValue: 816.1051025390625,
+      value: 816.10510254
+    },
+    speed: StatProperty {
+      fightProp: 'FIGHT_PROP_CUR_SPEED',
+      enka: [EnkaClient],
+      _propData: [Object],
+      fightPropName: [TextAssets],
+      isPercent: false,
+      rawValue: 0,
+      value: 0
+    },
+    statProperties: [
+      [StatProperty], [StatProperty], [StatProperty],
+      [StatProperty], [StatProperty], [StatProperty],
+      [StatProperty], [StatProperty], [StatProperty],
+      [StatProperty], [StatProperty], [StatProperty],
+      [StatProperty], [StatProperty], [StatProperty],
+      [StatProperty], [StatProperty], [StatProperty],
+      [StatProperty], [StatProperty], [StatProperty],
+      [StatProperty], [StatProperty], [StatProperty],
+      [StatProperty], [StatProperty], [StatProperty],
+      [StatProperty], [StatProperty], [StatProperty],
+      [StatProperty], [StatProperty], [StatProperty],
+      [StatProperty], [StatProperty], [StatProperty],
+      [StatProperty], [StatProperty], [StatProperty],
+      [StatProperty], [StatProperty]
+    ]
+  },
+  level: 89,
+  xp: 7931,
+  ascension: 6,
+  maxLevel: 90,
+  stamina: 240,
+  friendship: 1,
+  unlockedConstellations: [
+    Constellation {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 111,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      addProps: [],
+      paramList: [Array]
+    },
+    Constellation {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 112,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      addProps: [],
+      paramList: [Array]
+    },
+    Constellation {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 113,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      addProps: [],
+      paramList: [Array]
+    },
+    Constellation {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 114,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      addProps: [],
+      paramList: [Array]
+    },
+    Constellation {
+      enka: [EnkaClient],
+      _data: [Object],
+      id: 115,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      addProps: [],
+      paramList: [Array]
+    }
+  ],
+  skillLevels: [
+    { skill: [NormalAttack], level: [SkillLevel] },
+    { skill: [ElementalSkill], level: [SkillLevel] },
+    { skill: [ElementalBurst], level: [SkillLevel] }
+  ],
+  unlockedPassiveTalents: [
+    PassiveTalent {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 112101,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      requiredAscension: 1,
+      addProps: [],
+      isHidden: false
+    },
+    PassiveTalent {
+      _data: [Object],
+      enka: [EnkaClient],
+      id: 112201,
+      name: [TextAssets],
+      description: [TextAssets],
+      icon: [ImageAssets],
+      requiredAscension: 4,
+      addProps: [],
+      isHidden: false
+    }
+  ]
+}
