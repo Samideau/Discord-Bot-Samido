@@ -58,6 +58,9 @@ module.exports = {
             return console.log("ALED J AI PAS TROUVÉ TON SERVEUR DISCORD");
         }
 
+        //console.log(author);
+        if(author.id !== '269823993899384832') return interaction.reply({content: 'Cette commande est temporairement indisponible, désolé :c', ephemeral: true});
+
         //Init Global Const
         const chemin = `./FolderContainer/Songs/${serveurDiscord}`;
         //const COOKIE = cookie;
